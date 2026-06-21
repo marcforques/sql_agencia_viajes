@@ -1,0 +1,18 @@
+﻿id_pack,nombre_pack,categoria,duracion_dias,precio_base,activo
+1,Escapada urbana 3 días,Escapada,3,450.00,true
+2,Escapada urbana 3 días,Cultural,5,790.00,true
+3,Sol y playa,Vacaciones,7,950.00,true
+4,Todo incluido Caribe,Vacaciones,0,1450.00,true
+5,Ruta cultural,Cultural,6,880.00,true
+6,Aventura tropical,Aventura,-4,1650.00,true
+7,Montaña y naturaleza,Aventura,7,1050.00,true
+8,Luna de miel,Vacaciones,10,-100.00,true
+9,Viaje familiar,Vacaciones,7,1800.00,true
+10,Fin de semana premium,Escapada,3,980.00,true
+11,Japón esencial,Lujo,12,2800.00,true
+12,Safari y ciudad,Aventura,9,2300.00,true
+13,Islandia aventura,Aventura,8,2100.00,sí
+14,Ruta gastronómica,Cultural,5,1100.00,true
+15,Costa mediterránea,Vacaciones,6,1250.00,true
+16,Viaje mochilero,Aventura,10,850.00,true
+5,Ruta cultural,Cultural,6,880.00,true
